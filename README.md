@@ -32,6 +32,12 @@ Designed a basic **Star Schema**:
 
 Successfully built a structured data pipeline and generated insights using SQL queries.
 
+## 🗄️ Database Schema
+
+- fact_sales → stores transaction data  
+- dim_customers → customer info  
+- dim_products → product details  
+
 ## 📁 Project Structure
 
 * etl.py
